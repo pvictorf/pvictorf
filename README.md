@@ -11,7 +11,7 @@
 
 ![Pvictorf GitHub](https://github-readme-stats.vercel.app/api?username=pvictorf&show_icons=true&theme=dark&card_width=446)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pvictorf&layout=compact&theme=dark&card_width=446)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pvictorf&layout=compact&theme=dark&card_width=446)](https://github.com/pvictof/github-readme-stats)
 
 
 
