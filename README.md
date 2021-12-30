@@ -23,6 +23,7 @@
 
 ![Tec](./assets/icons/web.svg)
 ![Tec](./assets/icons/html.svg)
+![Tec](./assets/icons/css.svg)
 ![Tec](./assets/icons/javascript.svg)
 ![Tec](./assets/icons/react.svg)
 ![Tec](./assets/icons/vue.svg)
