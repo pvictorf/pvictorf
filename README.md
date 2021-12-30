@@ -8,14 +8,6 @@
 [![Social](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521965901813)
 
 
-<h2>✔️ Fullstack Developer </h2> 
-
-![Pvictorf GitHub](https://github-readme-stats.vercel.app/api?username=pvictorf&show_icons=true&theme=dark&card_width=446)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pvictorf&layout=compact&theme=dark&card_width=446)](https://github.com/anuraghazra/github-readme-stats)
-
-<br/>
-
 <h2>💻 Tecnologias Utilizadas </h2>
 
 <p> Atualmente <i>Fullstack developer </i> e apaixonado por tecnologia  estou focado em apredender ferramentas para desenvolvimento de aplicações <i>web, mobile e API</i>, além de boas práticas de programação e gerenciamento de projetos. </p>
@@ -41,3 +33,14 @@
 
 ![Tec](./assets/icons/dart.svg)
 ![Tec](./assets/icons/flutter.svg)
+
+<br/>
+
+<h2>✔️ Fullstack Developer </h2> 
+
+![Pvictorf GitHub](https://github-readme-stats.vercel.app/api?username=pvictorf&show_icons=true&theme=dark&card_width=446)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pvictorf&layout=compact&theme=dark&card_width=446)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
+
