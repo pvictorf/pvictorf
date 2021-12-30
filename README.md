@@ -1,6 +1,5 @@
 <center><h1>Olá 👋, sou Paulo Victor</h1></center>
 
-<hr>
 
 [![Social](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100065350841697)
 [![Social](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:pvictorferreira@hotmail.com)
