@@ -15,7 +15,8 @@
 
 
 
-<h2>✔️ Fullstack Developer </h2>
+<h2>✔️ Fullstack Developer </h2> 
+<br/>
 
 ![Pvictorf GitHub](https://github-readme-stats.vercel.app/api?username=pvictorf&show_icons=true&theme=dark&card_width=446)
 
@@ -24,20 +25,25 @@
 <br/>
 
 <h2>💻 Tecnologias Utilizadas </h2>
+<br/>
+<h3> Frontend </h3>
 
-[![Tec](./assets/icons/web.svg)](https://wa.me/5521965901813)
+![Tec](./assets/icons/web.svg)
+![Tec](./assets/icons/html.svg)
+![Tec](./assets/icons/css.svg)
+![Tec](./assets/icons/bootstrap.svg)
+![Tec](./assets/icons/jquery.svg)
+![Tec](./assets/icons/react.svg)
+![Tec](./assets/icons/vue.svg)
 
-<!--
-**pvictorf/pvictorf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> Backend </h3>
 
-Here are some ideas to get you started:
+![Tec](./assets/icons/php.svg)
+![Tec](./assets/icons/laravel.svg)
+![Tec](./assets/icons/nodejs.svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h3> Mobile </h3>
+
+![Tec](./assets/icons/dart.svg)
+![Tec](./assets/icons/flutter.svg)
