@@ -7,9 +7,6 @@
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://wa.me/5521965901813)
 [![Social](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521965901813)
 
-<br/>
-
-<p> Olá sou <i>Fullstack developer </i> e apaixonado por tecnologia atualmente estou focado em apredender ferramentas para desenvolvimento de aplicações mobile e web moderna, além de boas práticas de programação. </p>
 
 <br/>
 
@@ -24,6 +21,8 @@
 <br/>
 
 <h2>💻 Tecnologias Utilizadas </h2>
+
+<p> Atualmente <i>Fullstack developer </i> e apaixonado por tecnologia  estou focado em apredender ferramentas para desenvolvimento de aplicações <i>web, mobile e API</i>, além de boas práticas de programação e gerenciamento de projetos. </p>
 
 <h3> Frontend </h3>
 
