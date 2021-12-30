@@ -16,7 +16,6 @@
 
 
 <h2>✔️ Fullstack Developer </h2> 
-<br/>
 
 ![Pvictorf GitHub](https://github-readme-stats.vercel.app/api?username=pvictorf&show_icons=true&theme=dark&card_width=446)
 
@@ -25,7 +24,7 @@
 <br/>
 
 <h2>💻 Tecnologias Utilizadas </h2>
-<br/>
+
 <h3> Frontend </h3>
 
 ![Tec](./assets/icons/web.svg)
