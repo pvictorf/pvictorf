@@ -6,6 +6,15 @@
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://wa.me/5521965901813)
 [![Social](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521965901813)
 
+<br/>
+
+<h2>✔️ Fullstack Developer </h2> 
+
+![Pvictorf GitHub](https://github-readme-stats.vercel.app/api?username=pvictorf&show_icons=true&theme=dark&card_width=446)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pvictorf&layout=compact&theme=dark&card_width=446)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
 
 <h2>💻 Tecnologias </h2>
 
@@ -38,14 +47,6 @@
 ![Tec](./assets/icons/cloud.svg)
 ![Tec](./assets/icons/docker.svg)
 ![Tec](./assets/icons/aws.svg)
-
-<br/>
-
-<h2>✔️ Fullstack Developer </h2> 
-
-![Pvictorf GitHub](https://github-readme-stats.vercel.app/api?username=pvictorf&show_icons=true&theme=dark&card_width=446)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pvictorf&layout=compact&theme=dark&card_width=446)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
