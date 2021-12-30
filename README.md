@@ -16,7 +16,6 @@
 ![Tec](./assets/icons/web.svg)
 ![Tec](./assets/icons/html.svg)
 ![Tec](./assets/icons/css.svg)
-![Tec](./assets/icons/bootstrap.svg)
 ![Tec](./assets/icons/javascript.svg)
 ![Tec](./assets/icons/jquery.svg)
 ![Tec](./assets/icons/react.svg)
@@ -38,7 +37,11 @@
 ![Tec](./assets/icons/flutter.svg)
 
 <h3> Infra </h3>
+
+![Tec](./assets/icons/cloud.svg)
+![Tec](./assets/icons/security.svg)
 ![Tec](./assets/icons/docker.svg)
+![Tec](./assets/icons/aws.svg)
 
 <br/>
 
