@@ -8,10 +8,6 @@
 [![Social](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521965901813)
 
 
-<br/>
-
-
-
 <h2>✔️ Fullstack Developer </h2> 
 
 ![Pvictorf GitHub](https://github-readme-stats.vercel.app/api?username=pvictorf&show_icons=true&theme=dark&card_width=446)
