@@ -38,7 +38,6 @@
 <h3> Mobile </h3>
 
 ![Tec](./assets/icons/mobile.svg)
-![Tec](./assets/icons/phonegap.svg)
 ![Tec](./assets/icons/dart.svg)
 ![Tec](./assets/icons/flutter.svg)
 
