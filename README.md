@@ -15,19 +15,16 @@
 
 ![Tec](./assets/icons/web.svg)
 ![Tec](./assets/icons/html.svg)
-![Tec](./assets/icons/css.svg)
 ![Tec](./assets/icons/javascript.svg)
-![Tec](./assets/icons/jquery.svg)
 ![Tec](./assets/icons/react.svg)
 ![Tec](./assets/icons/vue.svg)
 
 <h3> Backend </h3>
 
+![Tec](./assets/icons/security.svg)
 ![Tec](./assets/icons/php.svg)
 ![Tec](./assets/icons/laravel.svg)
 ![Tec](./assets/icons/nodejs.svg)
-
-
 
 <h3> Mobile </h3>
 
@@ -39,7 +36,6 @@
 <h3> Infra </h3>
 
 ![Tec](./assets/icons/cloud.svg)
-![Tec](./assets/icons/security.svg)
 ![Tec](./assets/icons/docker.svg)
 ![Tec](./assets/icons/aws.svg)
 
