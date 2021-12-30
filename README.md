@@ -7,7 +7,7 @@
 [![Social](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521965901813)
 
 
-<h2>💻 Tecnologias Utilizadas </h2>
+<h2>💻 Tecnologias </h2>
 
 <p> Atualmente <i>Fullstack developer </i> e apaixonado por tecnologia  estou focado em apredender ferramentas para desenvolvimento de aplicações <i>web, mobile e API</i>, além de boas práticas de programação e gerenciamento de projetos. </p>
 
@@ -17,6 +17,7 @@
 ![Tec](./assets/icons/html.svg)
 ![Tec](./assets/icons/css.svg)
 ![Tec](./assets/icons/bootstrap.svg)
+![Tec](./assets/icons/javascript.svg)
 ![Tec](./assets/icons/jquery.svg)
 ![Tec](./assets/icons/react.svg)
 ![Tec](./assets/icons/vue.svg)
@@ -28,10 +29,16 @@
 ![Tec](./assets/icons/nodejs.svg)
 
 
+
 <h3> Mobile </h3>
 
+![Tec](./assets/icons/mobile.svg)
+![Tec](./assets/icons/phonegap.svg)
 ![Tec](./assets/icons/dart.svg)
 ![Tec](./assets/icons/flutter.svg)
+
+<h3> Infra </h3>
+![Tec](./assets/icons/docker.svg)
 
 <br/>
 
