@@ -41,6 +41,7 @@
 ![Tec](./assets/icons/dart.svg)
 ![Tec](./assets/icons/flutter.svg)
 
+<!--
 <h3> Infra </h3>
 
 ![Tec](./assets/icons/cloud.svg)
@@ -48,4 +49,5 @@
 ![Tec](./assets/icons/aws.svg)
 
 <br/>
+-->
 
